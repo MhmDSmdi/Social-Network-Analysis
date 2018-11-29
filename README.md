@@ -2,6 +2,7 @@
 Getting start with Social Network Analysis
 
 ## What is SNA? (and it's concepts)
+Duke University(https://modu.ssri.duke.edu/)
  * [The Basics of Social Network Analysis](https://modu.ssri.duke.edu/module/social-network-lab-r-beginners/basics-social-network-analysis)
  * [Network Layouts and Data Structures](https://modu.ssri.duke.edu/module/social-network-lab-r-beginners/network-layouts-and-data-structures)
  * [Introduction to Positional Features](https://modu.ssri.duke.edu/module/social-network-lab-r-beginners/introduction-positional-features)
