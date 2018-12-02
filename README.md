@@ -14,3 +14,4 @@ Getting start with Social Network Analysis
 # Basic Concepts
 Some basic alogorithms and concepts in Social Graph
  * [Random Walk](https://www.youtube.com/watch?v=reTP7XAJztU)
+ * [Word Embedding](https://towardsdatascience.com/introduction-to-word-embedding-and-word2vec-652d0c2060fa)
